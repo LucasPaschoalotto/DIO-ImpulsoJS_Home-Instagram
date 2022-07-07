@@ -1,10 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto: recriar a página inicial do Instagram - Bootcamp DIO - Impulso Javascript Evolution
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Desafio do Bootcamp para recriar a página inicial do Instagram utilizando HTML e CSS, com as propriedades de Flexbox
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+## Conteúdo CSS
+- Flexbox: Display Flex, Flex-Direction, Align-Items, Justify-Content.
+- Media Queries
